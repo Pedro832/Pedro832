@@ -3,7 +3,6 @@
 <h2 align="left">Hey👋! My name is Pedro Kauã. I'm 17 years old and I am a Front-End Programmer, born in Marabá PÁ Brazil.</h2>
 
 ###
-
 <br clear="both">
 <h2 align="left">🚀 Minhas Skills</h2>
 <div align="left">
